@@ -1,0 +1,6 @@
+apmd_flags="-A"
+dhcpd_flags=em1
+smtpd_flags=""
+sndiod_flags="NO"
+unbound_flags=
+xdm_flags=
