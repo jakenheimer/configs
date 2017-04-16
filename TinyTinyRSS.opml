@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Sun, 16 Apr 2017 00:20:05 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline text="BSD">
+      <outline type="rss" text="flak rss" xmlUrl="http://www.tedunangst.com/flak/rss" htmlUrl="http://www.tedunangst.com/flak/"/>
+      <outline type="rss" text="OpenBSD Journal" xmlUrl="http://undeadly.org/cgi?action=rss" htmlUrl="http://undeadly.org/"/>
+      <outline type="rss" text="The Global Engineer's Notebook" xmlUrl="https://globalengineer.wordpress.com/feed/" htmlUrl="https://globalengineer.wordpress.com"/>
+    </outline>
+    <outline text="Linux">
+      <outline type="rss" text="Computerworld Unix as a Second Language" xmlUrl="http://www.computerworld.com/blog/unix-as-a-second-language/index.rss" htmlUrl="http://www.computerworld.com"/>
+      <outline type="rss" text="Linux - Google News" xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=Linux&amp;um=1&amp;ie=UTF-8&amp;output=rss" htmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=Linux"/>
+      <outline type="rss" text="HowtoForge - Linux Howtos and Tutorials -" xmlUrl="http://www.howtoforge.com/node/feed" htmlUrl="https://www.howtoforge.com"/>
+      <outline type="rss" text="Linux Today" xmlUrl="http://linuxtoday.com/backend/biglt.rss" htmlUrl="http://www.linuxtoday.com/"/>
+      <outline type="rss" text="Ubuntu Geek" xmlUrl="http://www.ubuntugeek.com/feed/" htmlUrl="http://www.ubuntugeek.com"/>
+      <outline type="rss" text="OMG! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="http://www.omgubuntu.co.uk"/>
+      <outline type="rss" text="nixCraft: Linux Tips, Hac..." xmlUrl="http://feeds.cyberciti.biz/Nixcraft-LinuxFreebsdSolarisTipsTricks" htmlUrl="http://www.cyberciti.biz/"/>
+      <outline type="rss" text="Slashdot: Linux" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotLinux" htmlUrl="https://linux.slashdot.org/"/>
+      <outline type="rss" text="Web Upd8 - Ubuntu / Linux blog" xmlUrl="http://feeds2.feedburner.com/webupd8" htmlUrl="http://www.webupd8.org/"/>
+    </outline>
+    <outline text="SysAdmin">
+      <outline type="rss" text="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+      <outline type="rss" text="Microsoft Security Bullet..." xmlUrl="http://www.microsoft.com/technet/security/bulletin/secrss.aspx" htmlUrl="https://technet.microsoft.com/en-us/security/bulletin"/>
+      <outline type="rss" text="News ≈ Packet Storm" xmlUrl="http://rss.packetstormsecurity.org/news/" htmlUrl="https://packetstormsecurity.com/"/>
+    </outline>
+    <outline text="Tech">
+      <outline type="rss" text="Hack a Day" xmlUrl="http://www.hackaday.com/rss.xml" htmlUrl="http://hackaday.com"/>
+      <outline type="rss" text="How-To Geek" xmlUrl="http://feeds.howtogeek.com/howtogeek" htmlUrl="https://www.howtogeek.com"/>
+      <outline type="rss" text="Google Online Security Bl..." xmlUrl="http://googleonlinesecurity.blogspot.com/atom.xml" htmlUrl="http://security.googleblog.com/"/>
+      <outline type="rss" text="Instructables" xmlUrl="http://www.instructables.com/tag/type:instructable/rss.xml" htmlUrl="http://www.instructables.com"/>
+      <outline type="rss" text="Mashable" xmlUrl="http://feeds.mashable.com/Mashable" htmlUrl="http://mashable.com/stories/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&amp;utm_cid=Mash-Prod-RSS-Feedburner-All-Partial"/>
+      <outline type="rss" text="Lifehacker" xmlUrl="http://lifehacker.com/index.xml" htmlUrl="http://lifehacker.com"/>
+    </outline>
+    <outline type="rss" text="Boing Boing" xmlUrl="http://feeds.boingboing.net/boingboing/iBag" htmlUrl="http://boingboing.net"/>
+    <outline type="rss" text="Darknet - The Darkside" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="http://www.darknet.org.uk"/>
+    <outline type="rss" text="Dilbert Daily Strip" xmlUrl="http://feeds.feedburner.com/DilbertDailyStrip" htmlUrl="http://dilbert.com"/>
+    <outline type="rss" text="Exploit-DB updates" xmlUrl="http://www.exploit-db.com/rss.php" htmlUrl="https://www.exploit-db.com/"/>
+    <outline type="rss" text="FAIL Blog" xmlUrl="http://feeds.feedburner.com/failblog" htmlUrl="http://failblog.cheezburger.com/"/>
+    <outline type="rss" text="Mubix Links" xmlUrl="http://mubix.blogspot.com/feeds/posts/default" htmlUrl="http://www.inoreader.com/stream/user/1005877013/tag/user-broadcasted/view/html"/>
+    <outline type="rss" text="News" xmlUrl="http://www.npr.org/rss/rss.php?id=1001" htmlUrl="http://www.npr.org/templates/story/story.php?storyId=1001"/>
+    <outline type="rss" text="OSNews" xmlUrl="http://www.osnews.com/files/recent.xml" htmlUrl="http://www.osnews.com"/>
+    <outline type="rss" text="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" htmlUrl="http://www.phoronix.com/"/>
+    <outline type="rss" text="Quotes of the Day" xmlUrl="http://www.quotationspage.com/data/qotd.rss" htmlUrl="http://www.quotationspage.com/qotd.html"/>
+    <outline type="rss" text="Reuters" xmlUrl="http://feeds.reuters.com/reuters/topNews?irpc=69" htmlUrl="http://www.reuters.com"/>
+    <outline type="rss" text="Room362.com RSS Feed" xmlUrl="http://feeds.feedburner.com/Room362com" htmlUrl="https://room362.com/index.xml"/>
+    <outline type="rss" text="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com/blog/"/>
+    <outline type="rss" text="TechCrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch" htmlUrl="https://techcrunch.com"/>
+    <outline type="rss" text="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
+    <outline type="rss" text="The Oatmeal - Comics, Quizzes, &amp;..." xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
+    <outline type="rss" text="Uncommon Sense Security" xmlUrl="http://blog.uncommonsensesecurity.com/feeds/posts/default" htmlUrl="http://blog.uncommonsensesecurity.com/"/>
+    <outline type="rss" text="xkcd.com" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+    <outline text="tt-rss-prefs" schema-version="129">
+      <outline pref-name="ALLOW_DUPLICATE_POSTS" value="false"/>
+      <outline pref-name="AUTO_ASSIGN_LABELS" value="false"/>
+      <outline pref-name="BLACKLISTED_TAGS" value="main, generic, misc, uncategorized, blog, blogroll, general, news"/>
+      <outline pref-name="CDM_AUTO_CATCHUP" value="false"/>
+      <outline pref-name="CDM_EXPANDED" value="true"/>
+      <outline pref-name="_COLLAPSED_FEEDLIST" value="false"/>
+      <outline pref-name="_COLLAPSED_LABELS" value="false"/>
+      <outline pref-name="_COLLAPSED_SPECIAL" value="false"/>
+      <outline pref-name="_COLLAPSED_UNCAT" value="false"/>
+      <outline pref-name="COMBINED_DISPLAY_MODE" value="true"/>
+      <outline pref-name="CONFIRM_FEED_CATCHUP" value="true"/>
+      <outline pref-name="DEFAULT_ARTICLE_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_INCLUDE_CHILDREN" value="false"/>
+      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_MODE" value="all_articles"/>
+      <outline pref-name="_DEFAULT_VIEW_ORDER_BY" value="feed_dates"/>
+      <outline pref-name="DIGEST_CATCHUP" value="false"/>
+      <outline pref-name="DIGEST_ENABLE" value="false"/>
+      <outline pref-name="DIGEST_PREFERRED_TIME" value="00:00"/>
+      <outline pref-name="ENABLE_API_ACCESS" value="true"/>
+      <outline pref-name="_ENABLED_PLUGINS" value=""/>
+      <outline pref-name="ENABLE_FEED_CATS" value="true"/>
+      <outline pref-name="FEEDS_SORT_BY_UNREAD" value="false"/>
+      <outline pref-name="FRESH_ARTICLE_MAX_AGE" value="24"/>
+      <outline pref-name="HIDE_READ_FEEDS" value="true"/>
+      <outline pref-name="HIDE_READ_SHOWS_SPECIAL" value="true"/>
+      <outline pref-name="LONG_DATE_FORMAT" value="D, M d Y - G:i"/>
+      <outline pref-name="_MOBILE_BROWSE_CATS" value="true"/>
+      <outline pref-name="_MOBILE_ENABLE_CATS" value="false"/>
+      <outline pref-name="_MOBILE_HIDE_READ" value="false"/>
+      <outline pref-name="_MOBILE_REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="_MOBILE_SHOW_IMAGES" value="false"/>
+      <outline pref-name="_MOBILE_SORT_FEEDS_UNREAD" value="false"/>
+      <outline pref-name="ON_CATCHUP_SHOW_NEXT_FEED" value="false"/>
+      <outline pref-name="_PREFS_ACTIVE_TAB" value=""/>
+      <outline pref-name="_PREFS_SHOW_EMPTY_CATS" value="false"/>
+      <outline pref-name="PURGE_OLD_DAYS" value="60"/>
+      <outline pref-name="PURGE_UNREAD_ARTICLES" value="true"/>
+      <outline pref-name="REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="SHORT_DATE_FORMAT" value="M d, G:i"/>
+      <outline pref-name="SHOW_CONTENT_PREVIEW" value="true"/>
+      <outline pref-name="SORT_HEADLINES_BY_FEED_DATE" value="false"/>
+      <outline pref-name="SSL_CERT_SERIAL" value=""/>
+      <outline pref-name="STRIP_IMAGES" value="false"/>
+      <outline pref-name="STRIP_UNSAFE_TAGS" value="true"/>
+      <outline pref-name="_THEME_ID" value="0"/>
+      <outline pref-name="USER_CSS_THEME" value="night.css"/>
+      <outline pref-name="USER_LANGUAGE" value="auto"/>
+      <outline pref-name="USER_STYLESHEET" value=""/>
+      <outline pref-name="USER_TIMEZONE" value="Automatic"/>
+      <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
+    </outline>
+    <outline text="tt-rss-labels" schema-version="129"/>
+    <outline text="tt-rss-filters" schema-version="129"/>
+  </body>
+</opml>
