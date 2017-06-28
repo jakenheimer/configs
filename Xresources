@@ -1,0 +1,57 @@
+URxvt.depth:                32
+urxvt.background:           rgba:0000/0000/0200/f332
+URxvt.geometry:             80x25
+URxvt.loginShell:           true
+URxvt.internalBorder:       3
+URxvt.lineSpace: 0
+
+
+
+
+
+Xft.dpi:                    96
+!Xft.antialias:              true
+Xft.rgba:                   rgb
+!Xft.hinting:                true
+!Xft.hintstyle:              hintslight
+
+
+
+
+!URxvt.font: xft:Terminus:bold:size=12
+!URxvt.font:  xft:Ubuntu:regular:size=12
+URxvt.font:  xft:Terminess PowerLine:size=14
+URxvt.letterSpace: -4
+!URxvt.colorBD:  white
+!URxvt.colorIT:  green
+
+
+URxvt*saveLines: 12000
+
+URxvt*foreground: gray
+URxvt*background: black
+URxvt*scrollBar: false
+ 
+
+! Enable the extended coloring options
+rofi.color-enabled: true
+!                  bg       border   separator
+rofi.color-window: #282828, #a89984, #a89984
+!                  bg       fg       bg-alt   hl-bg    hl-fg
+rofi.color-normal: #282828, #ebdbb2, #32302f, #665c54, #fbf1c7
+rofi.color-active: #d79921, #282828, #d79921, #fabd2f, #282828
+rofi.color-urgent: #cc241d, #282828, #cc241d, #fb4934, #282828
+
+rofi.separator-style: solid
+rofi.sidebar-mode: true
+!rofi.bw: 1
+rofi.columns: 1
+rofi.padding: 16
+
+rofi.yoffset: 0
+rofi.fake-transparency: true
+rofi.location: 0
+rofi.width: 50
+rofi.font: Terminus 12
+rofi.lines: 15
+rofi.fixed-num-lines: true
